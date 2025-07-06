@@ -12,7 +12,7 @@ See `LICENSE` for full license terms.
 
 Welcome to SCS!
 
-To start the software, you need to execute (double click) the SCS.exe. This will give a folder called SCS. in this folder all needed files are provided. Using Launcher.exe will begin the software.
+To start the software, you need to download the .rar file and extract it. This will give a folder called SCS. in this folder all needed files are provided. Using Launcher.exe will begin the software.
 
 
 ## Greetings
